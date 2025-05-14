@@ -17,7 +17,7 @@ Using `Elbow_Curve.py` a elbow curve was constructed to find the optimal amount 
 </table>
 
 ### Centroids
-K-means clustering found that most shoppers fall into some extreme. They either spend a lot of money or very little money despite how much they make. 
+Using `cluster.py`, K-means clustering found that most shoppers fall into some extreme. They either spend a lot of money or very little money despite how much they make. 
 <table>
   <tr>
     <td><img src="Images/Cluster_Centroids.png" width="100%"/></td>
