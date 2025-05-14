@@ -4,7 +4,7 @@ This project uses K-means clustering to spot trends in shopping.
 The shopping dataset is from [Kaggle](https://www.kaggle.com/datasets/zubairmustafa/shopping-mall-customer-segmentation-data).
 The dataset contains over 15k datapoints and 4 parameters.
 - `Age` - integer representing the person's age
-- `Gender` - string valuse of `Male` or `Female`
+- `Gender` - string values of `Male` or `Female`
 - `Annual Income` - integer with the annual income in dollars
 - `Spending Score` - integer score normalized between 1 and 100 where higher values represent more spending.
 
