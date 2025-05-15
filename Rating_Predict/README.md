@@ -3,7 +3,7 @@ This project uses collaborative filtering to predict what movies other students 
 ### Dataset
 The class was survayed and every student wrote down a rating between 1 to 5(inclusive) for every marvel movie they have seen.
 This data is recorded in `MovieRecommender.csv`.
-The dataset contains over 31 students and 35 movies.
+The dataset contains 31 students and 35 movies.
 
 ### Predictions
 The inital predictions were made in `No_Normalize.py`.
