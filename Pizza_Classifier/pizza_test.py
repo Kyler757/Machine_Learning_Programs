@@ -194,9 +194,5 @@ def trainNN(epochs=0, batch_size=16, lr=0.0002, save_time=1, save_dir='', device
     plt.show()
 
 
-if __name__ == '__main__':
-    import multiprocessing
-    multiprocessing.freeze_support()
-
-    print("CUDA Available:", torch.cuda.is_available())
-    trainNN(0, 16, save_time=1, save_dir='save2.pth')
+print("CUDA Available:", torch.cuda.is_available())
+trainNN(0, 16, save_time=1, save_dir='save2.pth')
